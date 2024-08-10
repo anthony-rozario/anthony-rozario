@@ -1,4 +1,4 @@
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fddnm7kmznqd71.gif" type="gif" >
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fddnm7kmznqd71.gif" type="gif" />
 ## Hi there 👋
 
 <!--
