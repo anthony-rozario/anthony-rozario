@@ -1,2 +1,3 @@
-![](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fddnm7kmznqd71.gif)
+![ddnm7kmznqd71](https://github.com/user-attachments/assets/ad010987-6c4c-4315-bad5-c353953a3db2)
+
 # Anthony Prakash Rozario
