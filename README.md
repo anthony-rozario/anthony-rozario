@@ -53,13 +53,13 @@
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/anthony-rozario/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
+  <a href="https://www.instagram.com/anthony.rozario.3721/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:anthonyrozario62@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -69,7 +69,7 @@
 ### 🎵 Coding Music Vibes
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mci5nvd2w26s7ztoevmlzoxjqa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ols3zbcccprsytzwvinss2q62u&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
 </p>
 
 ---
