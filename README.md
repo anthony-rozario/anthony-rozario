@@ -71,9 +71,6 @@
 </p>
 
 ---
-
-### 🎉 Footer
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=30" />
 </p>
