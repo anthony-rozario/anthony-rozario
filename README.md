@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlign=50&desc=Scroll%20to%20explore%20my%20work&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!%0AScroll%20to%20explore%20my%20work&fontSize=40&fontAlign=50&fontAlignY=80&desc=&descAlign=50" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00F9FF&center=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Anthony+Prakash+Rozario!;BCA+Graduate+%7C+MCA+Pursuing;Tech+Enthusiast+%7C+Open+Source+Lover;Founder+of+Kraftamine+%7C+Rozaa.in;Let%E2%80%99s+build+amazing+things+together!" />
