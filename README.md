@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!%0AScroll%20to%20explore%20my%20work&fontSize=40&fontAlign=50&fontAlignY=80&desc=&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20GitHub!%0AScroll%20to%20explore%20my%20work&fontSize=40&fontAlign=50&fontAlignY=65" />
 </p>
+
 
 
 <p align="center">
