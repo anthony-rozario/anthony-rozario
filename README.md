@@ -89,9 +89,7 @@
 
 ### 🎵 Coding Music Vibes
 
-
-  [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ols3zbcccprsytzwvinss2q62u&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ols3zbcccprsytzwvinss2q62u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)]]
-
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ols3zbcccprsytzwvinss2q62u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)](https://open.spotify.com/user/31ols3zbcccprsytzwvinss2q62u)
 
 ---
 
