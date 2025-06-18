@@ -15,10 +15,18 @@
 ###  👨‍💻 About Me
 
 
-  I'm a passionate **Full-Stack Developer**, tech tinkerer, and lifelong learner from India 🇮🇳.
+<p align="center">
+  <strong><span style="font-size: 20px;">
+    I'm a passionate <span style="color:#00ADB5;">Full-Stack Developer</span>, tech tinkerer, and lifelong learner from India 🇮🇳.
+  </span></strong>
+</p>
 
-  
-🎓 I hold a Bachelor's degree in Computer Applications (BCA), and I'm currently pursuing my **Master's in Computer Applications (MCA)**. My journey in tech started with curiosity and evolved into a deep love for building creative digital solutions that make a difference.
+<p align="center">
+  <span style="font-size: 17px;">
+    🎓 I hold a Bachelor's degree in Computer Applications (<strong>BCA</strong>), and I'm currently pursuing my <strong>MCA</strong>.<br/>
+    My journey in tech started with curiosity and evolved into a deep love for building creative digital solutions that make a difference.
+  </span>
+</p>
 
 
 ---
@@ -72,16 +80,16 @@
 
 <p align="gap=2">
   <a href="https://www.linkedin.com/in/anthony-rozario/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&hight=30&width=30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" hight="30" width="30" />
   </a>
    <a href="https://www.x.com/anthony.rozario.3721/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&hight=30&width=30" />
+    <img src="https://skillicons.dev/icons?i=twitter" hight="30" width="30" />
   </a>
   <a href="https://www.instagram.com/anthony.rozario.3721/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&hight=30&width=30" />
+    <img src="https://skillicons.dev/icons?i=instagram" hight="30" width="30" />
   </a>
   <a href="mailto:anthonyrozario62@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&hight=30&width=30" />
+    <img src="https://skillicons.dev/icons?i=gmail" hight="30" width="30" />
   </a>
 </p>
 
@@ -92,7 +100,7 @@
 <p align="center">
   <a href="https://open.spotify.com/user/31ols3zbcccprsytzwvinss2q62u" target="_blank">
     <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ols3zbcccprsytzwvinss2q62u&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false" 
+      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ols3zbcccprsytzwvinss2q62u&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" 
       alt="Spotify Now Playing" 
       width="100%" 
       hight="200"
