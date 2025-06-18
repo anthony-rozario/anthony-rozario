@@ -14,23 +14,19 @@
 
 ###  👨‍💻 About Me
 
-<p>
+
   I'm a passionate **Full-Stack Developer**, tech tinkerer, and lifelong learner from India 🇮🇳.
   <br>
 🎓 I hold a Bachelor's degree in Computer Applications (BCA), and I'm currently pursuing my **Master's in Computer Applications (MCA)**. My journey in tech started with curiosity and evolved into a deep love for building creative digital solutions that make a difference.
-</p>
 
----
-
-### C
 
 ---
 
 ### ⚡ Frameworks & Platforms I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,react,nextjs,nodejs,express,tailwind,html,css,bootstrap,arduino" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,windows,androidstudio" />
+  <p>Frameworks : <img src="https://skillicons.dev/icons?i=java,c,python,js,react,nextjs,nodejs,express,tailwind,html,css,bootstrap,arduino" /></p>
+  <p>Platforms : <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,windows,androidstudio" /></p>
 </p>
 
 ---
