@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20My%20GitHub&fontAlignY=25&desc=Scroll%20to%20explore%20my%20work%20👇&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20My%20GitHub&fontAlignY=25&desc=Scroll%20to%20explore%20my%20work%20👇&fontColor=FFFFFF" width="100%"/>
 </p>
 
 
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=950&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Prakash+Rozario!;BCA+Graduate++%7C++MCA+Pursuing+;Tech+Enthusiast++%7C+Open+Source+Lover;Let's+Build+Amazing+Things+Together" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=950&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Prakash+Rozario!;BCA+Graduate++%7C++MCA+Pursuing+;Tech+Enthusiast++%7C+Open+Source+Lover;Let's+Build+Amazing+Things+Together" alt="Typing SVG" width="100%"/>
 </p>
 <!-- Founder+of+Kraftamine+%7C+Rozaa.in; -->
 
@@ -104,5 +104,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You%20for%20Visiting!%20😌✨&fontAlignY=70&fontColor=FFFFFF&fontSize=40&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You%20for%20Visiting!%20😌✨&fontAlignY=70&fontColor=FFFFFF&fontSize=40&section=footer" width="100%" />
 </p>
