@@ -95,6 +95,7 @@
       src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ols3zbcccprsytzwvinss2q62u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false" 
       alt="Spotify Now Playing" 
       width="100%" 
+      hight="200"
       style="max-width:800px;"
     />
   </a>
