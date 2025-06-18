@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20My%20GitHub&fontAlignY=25&desc=Scroll%20to%20explore%20my%20work%20👇&fontColor=FFFFFF" width="100%"/>
+  <img src="./Welcome_Banner.gif" type="gif" width="100%"/>
 </p>
 
 
@@ -101,5 +101,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You%20for%20Visiting!%20😌✨&fontAlignY=70&fontColor=FFFFFF&fontSize=40&section=footer" width="100%" />
+  <img src="./Thankyou_Banner.gif" type="gif" width="100%"/>
 </p>
