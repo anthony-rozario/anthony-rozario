@@ -6,7 +6,7 @@
 
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Prakash+Rozario!;BCA+Graduate++%7C++MCA+Pursuing+;Tech+Enthusiast++%7C+Open+Source+Lover;Let's+Build+Amazing+Things+Together" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com/demo/?weight=900&size=40&color=F7F7F7&center=true&vCenter=true&width=950&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Prakash+Rozario!;BCA+Graduate++%7C++MCA+Pursuing+;Tech+Enthusiast++%7C+Open+Source+Lover;Let's+Build+Amazing+Things+Together" alt="Typing SVG" />
 </p>
 <!-- Founder+of+Kraftamine+%7C+Rozaa.in; -->
 
