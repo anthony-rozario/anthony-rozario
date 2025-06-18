@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Anthony+Prakash+Rozario!;BCA+Graduate+%7C+MCA+Pursuing;Tech+Enthusiast+%7C+Open+Source+Lover;Let%E2%80%99s+build+amazing+things+together!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Hi%20🖐️%2C%20I'm%20Anthony%20Prakash%20Rozario&fontSize=35&fontAlign=50&fontAlignY=60" />
 </p>
 <!-- Founder+of+Kraftamine+%7C+Rozaa.in; -->
 
