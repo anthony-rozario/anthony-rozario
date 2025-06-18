@@ -1,22 +1,36 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20GitHub!%0AScroll%20to%20explore%20my%20work&fontSize=40&fontAlign=50&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20My%20GitHub&fontAlignY=25&desc=Scroll%20to%20explore%20my%20work%20👇&fontColor=FFFFFF" />
 </p>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00F9FF&center=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Anthony+Prakash+Rozario!;BCA+Graduate+%7C+MCA+Pursuing;Tech+Enthusiast+%7C+Open+Source+Lover;Let%E2%80%99s+build+amazing+things+together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Anthony+Prakash+Rozario!;BCA+Graduate+%7C+MCA+Pursuing;Tech+Enthusiast+%7C+Open+Source+Lover;Let%E2%80%99s+build+amazing+things+together!" />
 </p>
 <!-- Founder+of+Kraftamine+%7C+Rozaa.in; -->
+
+---
+
+###  👨‍💻 About Me
+
+<p>
+  I'm a passionate **Full-Stack Developer**, tech tinkerer, and lifelong learner from India 🇮🇳.
+  <br>
+🎓 I hold a Bachelor's degree in Computer Applications (BCA), and I'm currently pursuing my **Master's in Computer Applications (MCA)**. My journey in tech started with curiosity and evolved into a deep love for building creative digital solutions that make a difference.
+</p>
+
+---
+
+### C
 
 ---
 
 ### ⚡ Frameworks & Platforms I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,react,nextjs,nodejs,express,tailwind,html,css,bootstrap,arduino" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux,vscode,windows,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,react,nextjs,nodejs,express,tailwind,html,css,bootstrap,arduino" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,windows,androidstudio" />
 </p>
 
 ---
@@ -53,18 +67,18 @@
 
 ### 🌍 Connect with Me
 
-<p align="center">
+<p align="gap=2">
   <a href="https://www.linkedin.com/in/anthony-rozario/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&hight=30&width=30" />
   </a>
    <a href="https://www.x.com/anthony.rozario.3721/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tweeter" />
+    <img src="https://skillicons.dev/icons?i=x&hight=30&width=30" />
   </a>
   <a href="https://www.instagram.com/anthony.rozario.3721/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&hight=30&width=30" />
   </a>
   <a href="mailto:anthonyrozario62@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&hight=30&width=30" />
   </a>
 </p>
 
