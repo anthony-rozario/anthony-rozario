@@ -33,9 +33,10 @@
 
 ## ⚡ Frameworks & Platforms I Work With
 
-<p align="center">
-  <p> <span><h3>Frameworks : </h3></span><img src="https://skillicons.dev/icons?i=java,c,python,js,react,nextjs,nodejs,express,tailwind,html,css,bootstrap,arduino" /></p>
-  <p><span><h3>Platforms : </h3></span><img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,windows,androidstudio" /></p>
+### Frameworks : 
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,react,nextjs,nodejs,express,tailwind,html,css,bootstrap,arduino" /></p>
+### Platforms :
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,windows,androidstudio" /></p>
 </p>
 
 ---
