@@ -16,7 +16,8 @@
 
 
   I'm a passionate **Full-Stack Developer**, tech tinkerer, and lifelong learner from India 🇮🇳.
-  <br>
+
+  
 🎓 I hold a Bachelor's degree in Computer Applications (BCA), and I'm currently pursuing my **Master's in Computer Applications (MCA)**. My journey in tech started with curiosity and evolved into a deep love for building creative digital solutions that make a difference.
 
 
@@ -25,8 +26,8 @@
 ### ⚡ Frameworks & Platforms I Work With
 
 <p align="center">
-  <p>Frameworks : <img src="https://skillicons.dev/icons?i=java,c,python,js,react,nextjs,nodejs,express,tailwind,html,css,bootstrap,arduino" /></p>
-  <p>Platforms : <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,windows,androidstudio" /></p>
+  <p> <h2>Frameworks : </h2><img src="https://skillicons.dev/icons?i=java,c,python,js,react,nextjs,nodejs,express,tailwind,html,css,bootstrap,arduino" /></p>
+  <p><h2>Platforms : </h2><img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,windows,androidstudio" /></p>
 </p>
 
 ---
@@ -39,6 +40,12 @@
   <img src="https://img.shields.io/badge/Mobile-Apps-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embedded-Systems-red?style=for-the-badge" />
 </p>
+
+---
+
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
@@ -68,7 +75,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&hight=30&width=30" />
   </a>
    <a href="https://www.x.com/anthony.rozario.3721/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x&hight=30&width=30" />
+    <img src="https://skillicons.dev/icons?i=twitter&hight=30&width=30" />
   </a>
   <a href="https://www.instagram.com/anthony.rozario.3721/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&hight=30&width=30" />
@@ -82,10 +89,12 @@
 
 ### 🎵 Coding Music Vibes
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ols3zbcccprsytzwvinss2q62u&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</p>
+
+  [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ols3zbcccprsytzwvinss2q62u&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ols3zbcccprsytzwvinss2q62u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)]]
+
+
 ---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You%20for%20Visiting!%20😌✨&fontAlignY=70&fontColor=FFFFFF&fontSize=40&section=footer" />
 </p>
