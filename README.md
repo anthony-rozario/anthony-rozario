@@ -12,18 +12,18 @@
 
 ---
 
-###  👨‍💻 About Me
+###  👨‍💻🎓 About Me
 
 
 <p>
-  <strong><span style="font-size: 24px;">
+  <strong><span style="font-size: 34px;">
     I'm a passionate <span style="color:#00ADB5;">Full-Stack Developer</span>, tech tinkerer, and lifelong learner from India 🇮🇳.
   </span></strong>
 </p>
 
 <p>
-  <span style="font-size: 24px;">
-    🎓 I hold a Bachelor's degree in Computer Applications (<strong>BCA</strong>), and I'm currently pursuing my <strong>MCA</strong>.<br/>
+  <span style="font-size:34px;">
+    I hold a Bachelor's degree in Computer Applications (<strong>BCA</strong>), and I'm currently pursuing my <strong>MCA</strong>.<br/>
     My journey in tech started with curiosity and evolved into a deep love for building creative digital solutions that make a difference.
   </span>
 </p>
