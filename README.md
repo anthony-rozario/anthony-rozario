@@ -62,10 +62,10 @@
 ### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4nth0nyr0zar10&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="200"/>
- <img src="https://github-readme-streak-stats-eight.vercel.app?user=4nth0nyr0zar10&theme=radical&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anthony-rozario&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="200"/>
+ <img src="https://github-readme-streak-stats-eight.vercel.app?user=anthony-rozario&theme=radical&hide_border=true" height="200"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nth0nyr0zar10&theme=radical&layout=compact&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-rozario&theme=radical&layout=compact&hide_border=true" height="200"/>
 </p>
 
 ---
